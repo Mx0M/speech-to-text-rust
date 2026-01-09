@@ -18,7 +18,7 @@ Designed for fast, offline transcription with configurable sample rates and chun
 ## 📦 Requirements
 
 - **Rust** (stable, latest recommended)
-- **Whisper model files** (GGML / GGUF, depending on your setup)
+- **Whisper model files** (GGML / GGUF, depending on your setup, download  model ggml-base.bin and put under models inside  whisper-bin)
 - Supported OS: Linux / macOS (Windows may work with setup)
 
 ---
